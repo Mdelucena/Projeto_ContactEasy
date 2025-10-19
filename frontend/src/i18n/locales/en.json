@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "EasyContact",
+    "subtitle": "Smart Microsoft Contact Management"
+  },
+  "nav": {
+    "home": "Home",
+    "contacts": "Contacts",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "home": {
+    "welcome": "Manage your contacts intelligently",
+    "description": "Organize and view your Microsoft contacts in a simple and intuitive way",
+    "features": {
+      "title": "Features",
+      "auth": "Secure authentication with Microsoft",
+      "organize": "Organization by email domain",
+      "search": "Advanced search and filtering",
+      "multilang": "Multi-language support"
+    },
+    "getStarted": "Get Started"
+  },
+  "login": {
+    "title": "Login",
+    "description": "Sign in with your Microsoft account to access your contacts",
+    "button": "Sign in with Microsoft",
+    "loading": "Redirecting..."
+  },
+  "contacts": {
+    "title": "My Contacts",
+    "loading": "Loading contacts...",
+    "error": "Error loading contacts",
+    "empty": "No contacts found",
+    "totalDomains": "Total domains",
+    "totalContacts": "Total contacts",
+    "domain": "Domain",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "jobTitle": "Job Title",
+    "contactsInDomain": "contact(s)",
+    "search": "Search contacts...",
+    "filter": "Filter by domain",
+    "allDomains": "All domains",
+    "refresh": "Refresh"
+  },
+  "profile": {
+    "title": "Profile",
+    "welcome": "Hello, {name}!"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "errors": {
+    "network": "Server connection error",
+    "unauthorized": "Session expired. Please login again",
+    "generic": "An error occurred. Please try again"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist",
+    "backHome": "Back to home"
+  }
+}
+

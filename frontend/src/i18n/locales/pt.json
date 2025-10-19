@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "ContatoFácil",
+    "subtitle": "Gestão Inteligente de Contatos Microsoft"
+  },
+  "nav": {
+    "home": "Início",
+    "contacts": "Contatos",
+    "logout": "Sair",
+    "login": "Entrar"
+  },
+  "home": {
+    "welcome": "Gerencie seus contatos de forma inteligente",
+    "description": "Organize e visualize seus contatos da Microsoft de forma simples e intuitiva",
+    "features": {
+      "title": "Funcionalidades",
+      "auth": "Autenticação segura com Microsoft",
+      "organize": "Organização por domínio de email",
+      "search": "Busca e filtragem avançada",
+      "multilang": "Suporte multi-idioma"
+    },
+    "getStarted": "Começar Agora"
+  },
+  "login": {
+    "title": "Login",
+    "description": "Entre com sua conta Microsoft para acessar seus contatos",
+    "button": "Entrar com Microsoft",
+    "loading": "Redirecionando..."
+  },
+  "contacts": {
+    "title": "Meus Contatos",
+    "loading": "Carregando contatos...",
+    "error": "Erro ao carregar contatos",
+    "empty": "Nenhum contato encontrado",
+    "totalDomains": "Total de domínios",
+    "totalContacts": "Total de contatos",
+    "domain": "Domínio",
+    "name": "Nome",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "company": "Empresa",
+    "jobTitle": "Cargo",
+    "contactsInDomain": "contato(s)",
+    "search": "Buscar contatos...",
+    "filter": "Filtrar por domínio",
+    "allDomains": "Todos os domínios",
+    "refresh": "Atualizar"
+  },
+  "profile": {
+    "title": "Perfil",
+    "welcome": "Olá, {name}!"
+  },
+  "settings": {
+    "language": "Idioma",
+    "theme": "Tema"
+  },
+  "errors": {
+    "network": "Erro de conexão com o servidor",
+    "unauthorized": "Sessão expirada. Faça login novamente",
+    "generic": "Ocorreu um erro. Tente novamente"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "A página que você está procurando não existe",
+    "backHome": "Voltar para o início"
+  }
+}
+
