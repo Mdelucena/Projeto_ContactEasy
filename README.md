@@ -78,5 +78,3 @@ URLs:
 O sistema usa tokens temporários em memória no backend para evitar problemas com cookies cross-domain. Os tokens ficam armazenados no localStorage do frontend e são enviados via header Authorization.
 
 ---
-
-Desenvolvido para o teste técnico da Conecta Suite.
